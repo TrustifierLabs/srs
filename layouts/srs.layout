@@ -4,13 +4,13 @@
 
 
 Format 35
-Input usecase.inc     #
-Input requirement.inc #
-Input feature.inc     #
-Input testcase.inc    #
-Input fields.inc      #
-Input stdclass.inc
-Input numreport.inc
+Input srs-usecase.inc     #
+Input srs-requirement.inc #
+Input srs-feature.inc     #
+Input srs-testcase.inc    #
+Input srs-fields.inc      #
+Input srs-stdclass.inc
+Input srs-numreport.inc
 
 
 Sides           2
